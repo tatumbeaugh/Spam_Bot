@@ -7,7 +7,7 @@ This spam bot sends automated messages. It can be used for many things including
 This program uses the pyautogui module to create a spam bot. It has built in input validation and is simple to use and make your own. To customize you can edit the 
 time waited in between messages. You can customize the spam bot without editing the code as well with inputs that allow the user to tell the bot how many messages
 they want sent out and what they want the message to contain. This bot is intended to be used on Instagram but it should work on any text field the same way. If you
-decide to use the bot on instagram i'd recommend creating a new account or messaging from an account you dont acre about just in case ;)
+decide to use the bot on instagram i'd recommend creating a new account or messaging from an account you dont care about just in case ;)
 
 ## Getting Started
 
